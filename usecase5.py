@@ -14,7 +14,7 @@ Starting with the geographical spread, the analysis reveals that certain regions
 """)
 
 # Display pie chart as an image
-st.image("output.png", caption="Proportion of Job Postings by Region")
+st.image("out.png", caption="Proportion of Job Postings by Region")
 
 # Step 2: Gender Preferences in Job Postings
 st.header("2. Gender Preferences in Job Postings")
